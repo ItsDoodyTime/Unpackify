@@ -5,11 +5,17 @@ Unpackify is a Free and Opensource Bulk Archive File Unpacker. It helps you Unzi
 
 ---
 
+## ⚠️ WARNING! ⚠️
+Please, please, PLEASE make sure you TRUST the authors of the archived files you're about to extract with my software. This software does NOT do any malware checks before extracting, and it does not have any safety-locks. - So, please make sure the files you're extracting are SAFE!!!!<br><br>
+This software is provided AS IS, I do not accept any responsibility for any misuse of the software or any third-party alterations/adaptations.<br>All of its operations are executed locally on your own device with all of the files and their integrity being your responsibility and fully under your control, without any third-party influence!
+
+---
+
 ## Why does this exist?
 - I originally created it for my own needs, being unzipping and unpacking multiple mod files for games at once without having to go through the tedious process of unzipping them one by one.
 - You might ask why since similar programs already exist and do a lot more than just what this software was programmed to do, and to answer your question is because I want to learn and because it's more fun to make things yourself!<br><br>
 
-I decided to share it with others if it helps to solve their issues as well, **BUT** I do not intend on updating or maintaining this software, so it's provided ⚠️AS IS⚠️, without further support.<br>
+I decided to share it with others if it helps to solve their issues as well, **BUT** I do not intend on updating or maintaining this software, so it's provided AS IS⚠️, without further support.<br>
 
 ---
 ## 💎 Features
