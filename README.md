@@ -8,8 +8,9 @@ Unpackify is a Free and Opensource Bulk Archive File Unpacker. It helps you Unzi
 ---
 
 ## ⚠️ WARNING! ⚠️
-Please, please, PLEASE make sure you TRUST the authors of the archived files you're about to extract with my software. This software does NOT do any malware checks before extracting, and it does not have any safety-locks. - So, please make sure the files you're extracting are SAFE!!!!<br><br>
-This software is provided AS IS, I do not accept any responsibility for any misuse of the software or any third-party alterations/adaptations.<br>All of its operations are executed locally on your own device with all of the files and their integrity being your responsibility and fully under your control, without any third-party influence!
+PLEASE, PLEASE, PLEASE make sure you TRUST the authors of the archived files you're about to extract with my software.<br>This software does NOT do any malware checks before extracting, and it does not have any safety-locks. - So, please make sure the files you're extracting are SAFE!!!!<br><br>
+This software is provided AS IS, I do not accept any responsibility for any misuse of the software or any third-party alterations/adaptations.<br>All of its operations are executed locally on your own device with all of the files and their integrity being your responsibility and fully under your control.<br>
+It does not download, upload, share, or transmit any data from/to the internet.
 
 ---
 
