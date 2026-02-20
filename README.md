@@ -31,13 +31,11 @@ I decided to share it with others if it helps to solve their issues as well.
   - `.tbz2`
   - `.rar`
 - Pre-Extraction Storage-Space check
-- Auto-Clean partially extracted files (In case of errors)
+- Auto-Clean partially extracted files (In case of errors & Cancellation)
 - Optional subfolder scanning
-- Overwrite / Skip / Rename handling
+- Overwrite / Skip / Rename handling for duplicates
 - Minimalistic and Simple UI in ✨Dark Mode✨
-  - Cancel operation
-  - Live progress bar
-  - Live Logging (know exactly what's being worked on)
+  - Live Logging & progress bar (know exactly what's being worked on)
   - Remaining Time Estimation (ETA)
 - OPEN SOURCE & FREE FOREVER!
 
@@ -56,7 +54,7 @@ This software is provided AS IS, I do not accept any responsibility for any misu
 **ALSO,** I do not intend on updating or maintaining this software, so don't expect further support.<br><br>
 
 All of its operations are executed locally on your own device with all of the files and their integrity being your responsibility and fully under your control.<br>
-It does NOT download, upload, share, or transmit any data from/to the internet.
+  It does NOT download, upload, share, or transmit any data from/to the internet.
 
 ---
 
