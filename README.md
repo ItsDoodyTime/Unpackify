@@ -2,8 +2,8 @@
 
 # <img width="32" height="32" alt="Unpackify" src="https://github.com/user-attachments/assets/e8cbc75a-db30-45b2-a211-99fa0a969508" /> Unpackify
 Unpackify is a Free and Opensource Bulk Archive File Unpacker. It helps you Unzip and unpack multiple files at once while staying Optimized, Light-Weight, and Fast!
-<img width="1280" height="640" alt="unpackify-banner" src="https://github.com/user-attachments/assets/719aef07-0db1-41bc-93c0-405aed43f36c" />
 
+<img width="1280" height="640" alt="unpackify-banner" src="https://github.com/user-attachments/assets/719aef07-0db1-41bc-93c0-405aed43f36c" />
 
 ---
 
